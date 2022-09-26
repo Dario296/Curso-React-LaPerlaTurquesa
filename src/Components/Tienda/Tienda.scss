@@ -1,0 +1,52 @@
+.ContenedorTienda{
+    position: relative;
+    margin-top: 60px;
+}
+.Card{
+    position: relative;
+    border: 1px solid #1976d2;
+    .VerMas{
+        position: absolute;
+        bottom: 5px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+}
+.MenuCategorias{
+    color: #ffffff;
+    background-image: url(./img/fondo-nav.jpg);
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 59px;
+    padding-left: 20px;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    .Menu{
+        margin: 5px;
+        padding-left: 10px;
+    }
+}
+.CardDetalle{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    @media only screen and (max-width: 699px){
+        display: block;
+    }
+    .TituloPro{
+        text-align: center;
+    }
+    .imgProductos{
+        max-height: 300px;
+        margin-left: calc(50% - 142px);
+    }
+    .BtnCarrito{
+        color: #ffffff;
+        text-decoration: none;
+        &:hover{
+            color: #ffffff;
+        }
+    }
+}

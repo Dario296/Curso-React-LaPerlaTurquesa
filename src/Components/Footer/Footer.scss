@@ -1,0 +1,36 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-image: url(./img/fondo-nav.jpg);
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    .cont-list-redes{
+        margin-left: -32px;
+        .list-redes{
+            display: inline-block;
+            .redes{
+                color: #ffffff;
+                &:hover{
+                    color: #1976d2;
+                }
+            }
+        }
+    }
+    .derechos{
+        margin-top: -24px;
+        margin-bottom: -8px;
+    }
+    .derechos1{
+        text-decoration: none;
+        color: #ffffff;
+        &:hover{
+            color: #1976d2;
+        }
+    }
+    .derechos2{
+        margin-top: -8px;
+        margin-bottom: 0px;
+    }
+}

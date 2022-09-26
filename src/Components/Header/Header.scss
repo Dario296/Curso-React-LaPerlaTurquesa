@@ -1,0 +1,34 @@
+.Nav-Bar{
+    background-image: url(./img/fondo-nav.jpg);
+    background-size: cover;
+    height: 59.5px;
+    color: black !important;
+}
+.Links{
+    text-decoration: none;
+    color: #ffffff;
+    &:hover{
+        color: #1976d2;
+    }
+}
+.Links1{
+    text-decoration: none;
+    color: #000000;
+    &:hover{
+        color: #1976d2;
+    }
+}
+.Links2{
+    text-decoration: none;
+    color: #ffffff;
+    &:hover{
+        color: #ffffff;
+    }
+}
+.Logo{
+    height: 58px;
+    width: 130px;
+}
+.IconoCarrito{
+    visibility: hidden;
+}
