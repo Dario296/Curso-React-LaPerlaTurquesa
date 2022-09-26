@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Curso-React-LaPerlaTurquesa/static/css/main.068f23db.css",
+    "main.js": "/Curso-React-LaPerlaTurquesa/static/js/main.b250cea6.js",
+    "static/js/787.3335f440.chunk.js": "/Curso-React-LaPerlaTurquesa/static/js/787.3335f440.chunk.js",
+    "static/media/fondo-nav.jpg": "/Curso-React-LaPerlaTurquesa/static/media/fondo-nav.f7e66ac50e972c89f613.jpg",
+    "static/media/carousel3.jpg": "/Curso-React-LaPerlaTurquesa/static/media/carousel3.f5405d9f5c03b43a0d71.jpg",
+    "static/media/logo.png": "/Curso-React-LaPerlaTurquesa/static/media/logo.cbd343ad17cd9554b541.png",
+    "static/media/carousel2.jpg": "/Curso-React-LaPerlaTurquesa/static/media/carousel2.c97c8720bf939cabf680.jpg",
+    "static/media/carousel1.jpg": "/Curso-React-LaPerlaTurquesa/static/media/carousel1.3ac3df4eb475ab6c5f17.jpg",
+    "index.html": "/Curso-React-LaPerlaTurquesa/index.html",
+    "main.068f23db.css.map": "/Curso-React-LaPerlaTurquesa/static/css/main.068f23db.css.map",
+    "main.b250cea6.js.map": "/Curso-React-LaPerlaTurquesa/static/js/main.b250cea6.js.map",
+    "787.3335f440.chunk.js.map": "/Curso-React-LaPerlaTurquesa/static/js/787.3335f440.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068f23db.css",
+    "static/js/main.b250cea6.js"
+  ]
+}
